@@ -73,7 +73,7 @@ footer {
 }
 }
 
-@media (max-width: 768px) {
+
 
     * {
     margin: 0;
@@ -86,7 +86,7 @@ body {
     font-size: 14px;
 }
 
-/* Sidebar جانبية للموبايل */
+
 .sidebar {
     position: fixed;
     left: 0;
@@ -146,6 +146,6 @@ footer {
     font-size: 16px;
 }
 
-}
+
 
 
